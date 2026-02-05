@@ -6,5 +6,5 @@ Meu nome é Pietra Vitória Fernandes Lopes, tenho 16 anos e sou natural do esta
 
 ---
 
-:brain **Linguagens:** C | Java | SQL | HTML  
+🧠 **Linguagens:** C | Java | SQL | HTML  
 🛠️ **Ferramentas e Tecnologias:** VS Code, Insomnia, MySQL, Git, Node.js, Power BI, Draw.io
